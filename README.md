@@ -1,7 +1,7 @@
 # 💪 Fitness Center BMI & Hydration Calculator
 
-A simple Python console program that helps new members calculate **basic health metrics**.  
-It calculates **BMI**, provides the **BMI category**, and recommends **daily water intake** based on weight.
+A simple Python console program that helps new members calculate **basic health metrics**
+It calculates **BMI**, provides the **BMI category**, and recommends **daily water intake** based on weight
 
 
 
